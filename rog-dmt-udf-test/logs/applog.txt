@@ -1,0 +1,13 @@
+INFO    2023-04-14 01:33:50,604 [main] com.rogers.dmt.crypto.tokenization.EncryptSparkException  - Inside evaluate - 2 parameters::
+INFO    2023-04-14 01:33:50,612 [main] com.rogers.dmt.crypto.tokenization.CryptoException  - CryptoException Constructor
+INFO    2023-04-14 01:33:50,612 [main] com.rogers.dmt.crypto.tokenization.CryptoException  - In loadHiveKeyIv
+INFO    2023-04-14 01:34:06,574 [main] com.rogers.dmt.crypto.tokenization.CryptoException  - In  start of encrypt -->562871558------>>1681450446574
+INFO    2023-04-14 01:34:06,574 [main] com.rogers.dmt.crypto.tokenization.CryptoException  - In loadKeyIvData
+INFO    2023-04-14 01:34:06,574 [main] com.rogers.dmt.crypto.tokenization.CryptoException  - In loadHiveKeyIv
+INFO    2023-04-14 01:35:48,679 [main] com.rogers.dmt.crypto.tokenization.EncryptSparkException  - Inside evaluate - 3 parameters::
+INFO    2023-04-14 01:35:48,680 [main] com.rogers.dmt.crypto.tokenization.EncryptSparkException  - inside hard stop 1
+INFO    2023-04-14 01:35:48,683 [main] com.rogers.dmt.crypto.tokenization.CryptoException  - CryptoException Constructor
+INFO    2023-04-14 01:35:48,683 [main] com.rogers.dmt.crypto.tokenization.CryptoException  - In loadHiveKeyIv
+INFO    2023-04-14 01:36:02,794 [main] com.rogers.dmt.crypto.tokenization.CryptoException  - In  start of encrypt -->562871558------>>1681450562794
+INFO    2023-04-14 01:36:02,794 [main] com.rogers.dmt.crypto.tokenization.CryptoException  - In loadKeyIvData
+INFO    2023-04-14 01:36:02,794 [main] com.rogers.dmt.crypto.tokenization.CryptoException  - In loadHiveKeyIv
